@@ -1,6 +1,8 @@
 # Schusterjungen
 A recipe for the German bread roll _Schusterjungen_: Round mixed wheat rolls with mild sour taste.
 
+![Schusterjungen in the oven](https://github.com/BreadNerds/schusterjungen/blob/main/img/IMG_1347.JPEG?raw=true)
+
 With this recipe you can have freshly baked bread rolls with just some preparations the day before
 and only little work necessary just before breakfast.
 
@@ -34,3 +36,7 @@ from sticking.
 compact.
 - To prevent the resting bread rolls from flattening out while resting, align them on baking paper and
 fold it upwards between the rows, so they are tightened from the sides.
+
+## Pictures
+
+![Bread rolls wrapped tightly between up fold baking paper](https://github.com/BreadNerds/schusterjungen/blob/main/img/IMG_1344.JPEG?raw=true)
