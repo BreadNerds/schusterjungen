@@ -23,8 +23,8 @@ Stretch and fold at least once after 2-8 hours.
 round.
 1. Cover the dough pieces upside down and let them rest for 12 hours.
 1. Preheat the oven with two trays to 250°C.
-1. turn over the dough pieces, place them on baking paper and place them between the preheated trays
-in the oven. reduce the temperature to 230°C and bake the rolls for 18-20 minutes. remove the upper
+1. Turn over the dough pieces, place them on baking paper and place them between the preheated trays
+in the oven. reduce the temperature to 230°C and bake the rolls for 18-20 minutes. Remove the upper
 tray from the oven after 5-8 minutes.
 1. Let the rolls cool down on a grid.
 
